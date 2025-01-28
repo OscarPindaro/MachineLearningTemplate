@@ -1,3 +1,8 @@
+exploratory/*.ipynb
+products/*.ipynb
+scripts/*.ipynb
+tasks/*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
